@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ETL/Data warehousing<br>👯 I’m looking to collaborate on SQL and Python<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Python<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ETL/Data warehousing<br>👯 I’m looking to collaborate on SQL and Python<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Python<br>💬 Ask me about Database and RDBMS<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
